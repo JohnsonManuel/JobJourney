@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dashboard</title>
+    <style>
+      /* Style to arrange left column */
+      .left-column {
+        float: left;
+        width: 25%;
+        padding: 10px;
+        background-color: #f0f0f0;
+        height: 100vh; /* Full height */
+      }
+
+      /* Style for the right side content */
+      .right-column {
+        float: left;
+        width: 70%;
+        padding: 20px;
+        height: 100vh;
+      }
+
+      .button {
+        display: block;
+        margin-bottom: 20px;
+        width: 100%; /* Full width button */
+        padding: 10px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        text-align: center;
+        cursor: pointer;
+      }
+
+      .button:hover {
+        background-color: #45a049;
+      }
+
+      .large-text-box {
+        width: 100%;
+        height: 400px;
+        padding: 10px;
+        font-size: 16px;
+        resize: none;
+      }
+
+      #cold-email-box {
+        display: none; /* Hidden by default */
+        margin-top: 20px;
+      }
+    </style>
+    <script>
+      // Function to set the text based on the button pressed
+      function setText(content) {
+        document.getElementById("interactive-text-box").value = content;
+      }
+
+      // Placeholder texts
+      const atsImproveText =
+        "Your ATS optimization suggestions will appear here...";
+      const roadMapText = "Your personalized road map will appear here...";
+
+      // Function to show the cold email text box when the button is clicked
+      function showColdEmailBox() {
+        document.getElementById("cold-email-box").style.display = "block";
+      }
+    </script>
+  </head>
+  <body>
+    <!-- Left side column -->
+    <div class="left-column">
+      <h2>Welcome, {{ username }}!</h2>
+
+      <!-- Download Resume Button -->
+      <form action="{{ url_for('download_resume') }}" method="post">
+        <input type="submit" class="button" value="Download Resume Letter" />
+      </form>
+
+      <!-- Download Cover Letter Button -->
+      <form action="{{ url_for('download_cover') }}" method="post">
+        <input type="submit" class="button" value="Download Cover Letter" />
+      </form>
+
+      <!-- Generate Cold Email Button -->
+      <button class="button" onclick="showColdEmailBox()">
+        Generate Cold Email
+      </button>
+
+      <!-- Cold Email Text Box -->
+      <div id="cold-email-box">
+        <h3>Cold Email</h3>
+        <textarea
+          rows="10"
+          cols="40"
+          placeholder="Your generated cold email will appear here..."
+        ></textarea>
+      </div>
+    </div>
+
+    <!-- Right side column -->
+    <div class="right-column">
+      <!-- Interactive large text box -->
+      <h3>Interactive Text Box</h3>
+      <textarea
+        id="interactive-text-box"
+        class="large-text-box"
+        placeholder="Results will be shown here..."
+        readonly
+      ></textarea>
+
+      <!-- Buttons for Road Map and ATS Improve -->
+      <button class="button" onclick="setText(roadMapText)">Road Map</button>
+      <button class="button" onclick="setText(atsImproveText)">
+        ATS Improve
+      </button>
+    </div>
+
+    <a href="{{ url_for('logout') }}">Logout</a>
+  </body>
+</html>
