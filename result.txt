@@ -1,0 +1,139 @@
+Results from PDF store:
+Source: Johnson Manuel R - Resume.pdf, Page: 1
+Johnson Manuel R  
+Email : johnsonmanuel321@gmail.com  | +49 1712793043  | Cottbus Germany   
+LinkedIn:  https://www.linkedin.com/in/johnson -manuel/  
+GitHub: https://github.com/JohnsonManuel  
+ 
+About Me:  
+An Ambitious Masters student with 3+ years of professional experience and competencies in software development and 
+data science. Now, undertaking my M.S in  Artificial intelligence at BTU Cottbus  Senftenberg and seeking the  role of 
+working student.  
+ 
+Professional Experience:  
+Tata Consultancy Services  | Systems Engineer | Chennai , India  (3 Years)  Jan 2020 – Jan 2023  
+Project : TCS BANCS PRIVATE BANKING – PB DIGITAL SOLUTION .  
+                   
+Responsibilities:  
+• Evaluate d customer requirements and worked  on various CRs (Change Requests) for the application  and also 
+maintained documentation for the CRs and other functionalities  along with it.  
+• Worked on multiple Defects in the application and delivered the fixes after unit testing .
+-----
+Source: Johnson Manuel R - Resume.pdf, Page: 6
+Technical Skills : 
+• Programming Languages:  
+▪ Experienced:  Java, python  
+▪ Intermediate : HTML, CSS,  JS, SQL 
+▪  Familiar:  C, C++  
+• React Js  
+• Bootstrap  
+• Java Server Faces (JSF)  
+• jQuery  
+• Python  • Spring boot  
+• Hibernate  
+• Restful  Web services.  
+• RESTful APIs  (API development ) 
+• Sass  (CSS Extension)  
+• IDE: Eclipse, Spring Tool suite, Visual Studio Code,  
+JuPyter Notebooks.  
+ 
+ 
+Certifications:  
+• React Js – The complete guide from Udemy + Mini Project (To do list – Made with React)  
+• IBM Data science Professional Certificate  
+• Stanford University & DeepLearning.AI Machine Learning Specialization.  
+• Cambridge English: Business Vantage  
+• Java Training certification from Besant technologies.  
+• Cisco Certified Network Associate Routing and Switching (CCNA).  
+Education:  
+Anna University 2015 -2019 |  CGPA – 7.02/10  
+Bachelors in Computer Science and Engineering (B.E)  
+ 
+BTU Cottbus – Senftenberg | 2023 - Ongoing
+-----
+Source: Jeswin_-_Cover_Letter_BMW.pdf, Page: 3
+Best regards,
+Jeswin Justin Alexis Aloysius
+Enclosure:
+-
+Curriculum Vitae
+-
+Bachelor Degree
+-
+Post Graduate Program certificate 
+-
+Master’s enrollment certificate 
+-
+Proof of English proficiency
+-----
+Source: Johnson Manuel R - Resume.pdf, Page: 2
+maintained documentation for the CRs and other functionalities  along with it.  
+• Worked on multiple Defects in the application and delivered the fixes after unit testing . 
+• Wrote highly maintainable code  in java which formed the core of the many functionalities within the application.  
+• Supported the team member s in a major application redesign.  
+• Deployed  and maintained  the solution in the Tomcat 8.5 Server.  
+• Collaborated with other developers from different technical teams and worked on REST  web  services  and other service 
+needs for the application.  
+• Assist ed two juniors  with their sample project and other minor tasks, as well as providing KT sessions to them.  
+Internships:  
+Full creative  | Web Development Intern  | Chennai, India    (3 Months) Jun 2019 - Aug 2019  
+Responsibilities:  
+• Created multiple Email Templates  and Responsive  Webpages  from scratch from Figma  and other wireframe guides 
+created by the Design Team.
+-----
+Source: Veera  pathap_resume (2).pdf, Page: 2
+• Visualization  Tool:  PowerBI  
+ 
+ 
+PROJECTS  
+ 
+House  Price  Prediction  
+• Implemented  a house  price  prediction  model  using sklearn  for linear  regression.  
+• Utilized  pandas  and numpy  for data manipulation  and preprocessing.  
+• Visualized  data and model  performance  with matplotlib.  
+• Deployed  the model  using  Streamlit  for interactive  user interface.  
+• Link:https://github.com/veeraprathp/Deployed_house_Price -_prediction/tree/main  
+ 
+Loan  Approval  Prediction  using  Machine  Learning  
+• Developed  machine  learning  model  for loan approval  prediction.  
+• Utilized  Python  and libraries  such  as Numpy , Pandas,  Matplotlib , and Seaborn . 
+• Link:https://github.com/veeraprathp/Loan -Approval -Prediction -using -Machine -Learning  
+ 
+Product  Review  Sentiment  Analysis  
+• Utilized  web scraping  with Selenium  to collect  customer  reviews.  
+• Developed  sentiment  analysis  model  using  PyTorch's  LSTM  architecture .
+-----
+Source: Jeswin_-_Cover_Letter_BMW.pdf, Page: 2
+company, which helped the company bring in daily insights. I also set up in-depth user analysis which
+helped the company gain daily insights on the performance. And currently I’m enrolled in RWTH Aachen
+University pursuing my masters in Data Analytics and Decision Science
+I’m an extremely motivated and confident student. I have an extreme passion and pull towards the
+automobile industry. Together with my love for data science and automobiles, I believe I will be able to put
+in 200% of my efforts with all the knowledge that I have gained.
+The fact that BMW Group’s core values are quality, equality and diversity has me all the way motivated
+and interested to work happily.
+I am available from a month before the expected start date to start to work in your esteemed company. I
+am looking forward to answering any questions in a personal interview.
+Best regards,
+Jeswin Justin Alexis Aloysius
+Enclosure:
+-
+Curriculum Vitae
+-
+Bachelor Degree
+-
+Post Graduate Program certificate 
+-
+-----
+
+Results from GitHub store:
+Handwriting Recognition (HWR) project using deep learning techniques. Goal: recognize handwritten names from images. Key technologies: TensorFlow, Keras, OpenCV, and Matplotlib. Achievements: 30,000-image dataset trained with 60 epochs, achieving sequence prediction using Convolutional and Bidirectional LSTM layers. hwrSample KiranVSurendran
+-----
+There's no project information provided. Please provide the project details, and I'll create a concise summary (50 words) including the main goal, core technologies used, and key accomplishments. multiProcessing KiranVSurendran
+-----
+There's no project information provided. Please provide the project details, and I'll create a concise summary (50 words) including the main goal, core technologies used, and key accomplishments. db-capstone-project KiranVSurendran
+-----
+Project: MultiProcess-Threading 
+Summary: 
+This project explores concurrent programming using multiprocessing and threading. The main goal is to efficiently execute tasks simultaneously. Core technologies include Python's multiprocessing and threading libraries. Key accomplishments include successfully implementing parallel processing, improving execution speed, and demonstrating synchronization techniques for thread-safe operations. MultiProcess-Threading KiranVSurendran
+-----
